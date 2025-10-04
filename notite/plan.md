@@ -1,7 +1,7 @@
 octombrie
 
-- concatenare, căutare, extragere, inserare, eliminare
-- 5.2. Divizibilitate. Numere prime. Algoritmul lui Euclid
+- 5.1 concatenare, căutare, extragere, inserare, eliminare
+- 5.2. Divizibilitate. Numere prime. Algoritmul lui Euclid - descompunere in factori primi - Algoritmul lui Euclid - scadere si impartire
 - 5.5. Metode de ordonare: metoda bulelor, selecției, 5.6. Interclasare
 - 5.7. Metode de căutare: secvențială, binară 5.8. Analiza complexității unui algoritm considerând criteriile de eficiență durata de
   execuție și spațiu de memorie utilizat
