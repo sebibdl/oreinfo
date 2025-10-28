@@ -7,3 +7,14 @@ Tema:
 calcul vizual si explicativ cum am facut la ora in care demonstrezi de ce int, long long, char au limitele respective(cum am facut la ora)
 
 - bonus explica intervalul de la unsigned pentru aceste tipuri de date
+- Rezolva Divizori6 cum am facut la ora
+
+2:
+Pe o foaie de hartie sa scrii fiecare linie de cod de la sortari si sa explici fiecare line de cod ce face si de ce + o explicatie in mare(cateva propozitii) despre
+cum functioneaza algoritmul -> explica in limbaj natural(ca la prosti) a algorimilor
+
+3 probleme cu sortari -> fiecare problema in 3 moduri cu fiecare sortare
+
+2 probleme cu sortare prin numarare
+
+- terminat tema cu divizori
