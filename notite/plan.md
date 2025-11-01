@@ -1,8 +1,8 @@
 octombrie
 
 - 5.1 concatenare, căutare, extragere, inserare, eliminare ✅
-- 5.2. Divizibilitate. Numere prime. Algoritmul lui Euclid - descompunere in factori primi✅
-- 5.6. Interclasare, sortare metoda elevului
+- 5.2. Divizibilitate. Numere prime. descompunere in factori primi✅
+- 5.6. Algoritmul lui Euclid, Interclasare, sortare metoda elevului(?)
 - 5.5. Metode de ordonare: metoda bulelor, selecției, 5.3 Algoritmul lui Euclid - scadere si impartire + complexitati
 
 - 5.7. Metode de căutare: secvențială, binară 5.8. Analiza complexității unui algoritm considerând criteriile de eficiență durata de
