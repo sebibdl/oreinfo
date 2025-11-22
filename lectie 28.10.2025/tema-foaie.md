@@ -4,7 +4,7 @@ long long -> aproximativ 2 e 18 -> aproximativ [-2e18, 2e18] -> 2^64
 char -> [-2^7, 2^7 - 1]
 
 Tema:
-calcul vizual si explicativ cum am facut la ora in care demonstrezi de ce int, long long, char au limitele respective(cum am facut la ora)
+calcul vizual si explicativ cun cm am facut la ora iare demonstrezi de ce int, long long, char au limitele respective(cum am facut la ora)
 
 - bonus explica intervalul de la unsigned pentru aceste tipuri de date
 - Rezolva Divizori6 cum am facut la ora
